@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37285555553",
+    "project_id": "delicheq-15d66",
+    "storage_bucket": "delicheq-15d66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37285555553:android:a15e4f35b487a43c712920",
+        "android_client_info": {
+          "package_name": "com.example.delicheq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUj-_UNhcBjDgBRAMRfLWHVWYO_IgkDuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
